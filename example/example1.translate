@@ -1,0 +1,25 @@
+_LICENSE :: GPL-3.0
+# This is an example simulating a game's translation configuration file.
+
+<RESOURCE_ORIGINAL>
+    ID: MSG_WELCOME
+    TEXT: "Welcome to the game, adventurer!"
+</RESOURCE_ORIGINAL>
+<RESOURCE_TRANSLATED:PT>
+    TEXT: "Bem-vindo ao jogo, aventureiro!"
+</RESOURCE_TRANSLATED:PT>
+<RESOURCE_TRANSLATED:ES>
+    TEXT: "¡Bienvenido al juego, aventurero!"
+</RESOURCE_TRANSLATED:ES>
+
+<RESOURCE_ORIGINAL>
+    ID: BTN_START
+    TEXT: "START"
+    SUBTEXT : "The game is a bit violent; please check the ESRB rating."
+</RESOURCE_ORIGINAL>
+<RESOURCE_TRANSLATED:PT>
+    TEXT: "JOGAR"
+</RESOURCE_TRANSLATED:PT>
+<RESOURCE_TRANSLATED:ES>
+    TEXT: "INICIAR"
+</RESOURCE_TRANSLATED:ES>
